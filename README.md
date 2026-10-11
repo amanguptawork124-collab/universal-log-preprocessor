@@ -182,8 +182,4 @@ Planned next: a UDP/TCP 514 syslog listener, correlation across records (brute-f
 - Local AI through [Ollama](https://ollama.com) with Meta Llama 3.2
 - Event schema from the [Open Cybersecurity Schema Framework](https://ocsf.io)
 
-## Team
-
-Sahil ([Sahil-242-ops](https://github.com/Sahil-242-ops)) and Aman Gupta ([amanguptawork124-collab](https://github.com/amanguptawork124-collab)).
-
 Released under the [MIT License](LICENSE).
